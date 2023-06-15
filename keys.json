@@ -1,0 +1,23 @@
+[
+    "PasswordKeyMac",
+    "PasswordKeyiOS",
+    "APISalt",
+    "AtomSecretKeyMac",
+    "AtomSecretKeyiOS",
+    "SentryDSNMac",
+    "SentryDSNiOS",
+    "MixpanelTokenDev",
+    "MixpanelTokenProduction",
+    "MixpanelTokenAlpha",
+    "MixpanelTokenBeta",
+    "MixpanelTokenQA",
+    "DialerAPIKey",
+    "LoginHeaderSaltMac",
+    "LoginHeaderSaltiOS",
+    "AWSClientIDMac",
+    "AWSClientIDiOS",
+    "AWSSecretMac",
+    "AWSSecretiOS",
+    "AppsFlyerDevKey",
+    "AdjustAppTokeniOS" 
+]
